@@ -7,7 +7,6 @@ I build clean, interactive web apps — neat UIs, thoughtful animations, and rea
 ---
 
 ## 🔭 Highlights
-- Languages (detected from this repo): **JavaScript 88.4% · HTML 8.6% · CSS 3.0%**. :contentReference[oaicite:1]{index=1}  
 - Focus: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**, plus API-driven apps (OpenWeather for Vayu).
 - UX polish: animated backgrounds, image hover effects, and copy-to-clipboard utilities.
 

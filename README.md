@@ -44,13 +44,6 @@ This site — built to showcase my projects, blog bits, and contact info. Featur
 
 ---
 
-## ⚡ Live demo
-(If you host this on GitHub Pages / Netlify / Vercel, paste the link below.)
-
-**Live:** `https://yourdomain.com` *(replace with live demo link)*
-
----
-
 ## 🛠️ How to run locally
 ```bash
 # clone

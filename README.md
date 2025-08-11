@@ -46,9 +46,3 @@ My personal site — animated radial backgrounds, hover effects, copy-to-clipboa
 
 ---
 
-## 📸 Screenshots
-Add screenshots to `/assets/screenshots/` and reference them here:
-
-```md
-![Homepage](/assets/screenshots/homepage.png)
-![Project Card](/assets/screenshots/project-card.png)

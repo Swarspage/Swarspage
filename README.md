@@ -1,66 +1,48 @@
-<!--
-  Hi! Replace placeholders (YOUR_NAME, your email, demo links, screenshots) with real values.
-  Designed for Swar (Swar Sangram Shinde) — feel free to edit tone, sections, or order.
--->
+# Hi, I'm Swar (Swar Sangram Shinde)  👋
 
-# 👋 Hi, I’m Swar (Swar Sangram Shinde)
+**Aspiring AI Engineer · Frontend Developer · Lifelong learner**
 
-**Student · Aspiring AI Engineer · Frontend Developer**  
-Welcome to my portfolio — a small collection of projects, experiments, and things I build while learning and having fun.
+I build interactive, real-world web projects using React, Tailwind, and smart animations. My current portfolio showcases API integrations, sleek UI cards, and copy-to-clipboard tools—all built with the kind of polish I'm always improving.
 
 ---
 
-## ✨ About this portfolio
-This repository contains my personal portfolio website — a living playground for UI experiments, small web apps, and hackathon builds. It’s built with modern frontend tools and is continuously evolving.  
-Think of this as the index of my learning journey: neat UI components, real API integrations, and progressively better UX with every commit.
+###  Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Add more tools or languages as needed -->
+</p>
 
 ---
 
-## 🚀 Featured Projects
+###  Featured Projects
 
-### **Vayu** — Weather app (OpenWeather API)
-A sleek real-time weather app that displays current conditions and forecasts using the OpenWeather API.  
-- Highlights: Clean UI, responsive layout, API integration, smooth animations.  
-- Tech: React, Fetch API (OpenWeather), Tailwind CSS.  
-- Repo / Demo: `https://github.com/Swarspage/Vayu` *(replace with your link or live demo)*
-
-### **SkillTube**
-A video-first platform concept that helps skilled workers showcase their craft and connect with buyers.  
-- Highlights: Project card UI, video-first layout, marketplace concept.  
-- Tech: React, Tailwind, responsive components.
-
-### **My Portfolio (this repo)**
-This site — built to showcase my projects, blog bits, and contact info. Features animated backgrounds, project cards, and contact/copy-to-clipboard utilities.
-
-> More projects and prototypes are in progress — follow along!
+| Project     | Description                                               | Live/Demo Link               |
+|-------------|-----------------------------------------------------------|------------------------------|
+| **Vayu**     | Weather app fetching live forecasts via OpenWeather API    | *(link to live or repo)*     |
+| **SkillTube** | Video-first platform concept with sleek responsive UI      | *(link to repo/demo)*        |
+| **Portfolio** | This website — animated backgrounds, project cards, clipboard features | *(link to repo/demo)*        |
 
 ---
 
-## 🧰 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Styling:** Tailwind CSS (custom utilities + animations)  
-- **APIs:** OpenWeather (Vayu)  
-- **Tools:** Vite / Create React App (whichever you use), Git, GitHub
+###  More About Me
+
+- Constantly iterating and shipping UI improvements — latest: animated gradient background + responsive layouts.
+- Currently diving deeper into full-stack development (Node.js, MongoDB) and machine learning fundamentals.
+- Always up for coding challenges, collabs, or just brainstorming clever UI ideas!
 
 ---
 
-## 🛠️ How to run locally
-```bash
-# clone
-git clone https://github.com/Swarspage/My-Portfolio.git
-cd My-Portfolio
+###  Get in Touch
 
-# install
-npm install
-# or
-yarn
+-  Email: youremail@example.com *(replace with your real email)*
+-  LinkedIn: [Your Profile](https://www.linkedin.com/in/your-linkedin)
+-  Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
-# dev
-npm run dev
-# or
-yarn dev
+> “These are just the first chapters — the real story of my creations is only getting started.”
 
-# build
-npm run build
-# or
-yarn build
+---
+
+![Snake animation](https://github.com/Platane/snk/raw/master/github-contribution-grid-snake.svg)

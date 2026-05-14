@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Swar%20Shinde&fontSize=58&fontAlign=50&fontAlignY=38&color=0:0f0f0f,100:1f1f1f&desc=Frontend%20Developer%20%E2%80%A2%20Navi%20Mumbai&descAlign=50&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+products+that+look+too+clean+to+be+real;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Shipping+fast%2C+clean%2C+and+obsessively+polished+UI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=system.out.dev;Frontend+Architect;Building+products+that+look+too+clean+to+be+real;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Shipping+fast%2C+clean%2C+and+obsessively+polished+UI" alt="Typing SVG" />
 
 <br/>
 
@@ -35,38 +35,49 @@
 </div>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /> `whoami.js`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /> `system.out.dev`
 
 <pre>
 <code class="language-js">const swar = {
   age: 19,
-  gpa: "8.365 / 10",
-  currentlyAt: "B.Tech CS · DMCE · 2023–Present",
-  internship: "Built SIMS — 26 pages, 3 portals, 500+ daily users. Solo.",
-  learning: ["Next.js", "TypeScript", "PostgreSQL"],
-  notOnResume: "Lost at chess. Won at hackathons."
-};</code>
+  gpa: 8.365,
+  education: "B.Tech CS · DMCE",
+  year: "2023–Present",
+  status: "Building things fast"
+};
+
+> Swar.deploy()
+Process finished with exit code 0_</code>
 </pre>
 
 <br/>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center" /> What I've shipped
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center" /> Selected Projects
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" align="center" /> **SIMS** — Student Information Management System · [sims.csidmce.com](https://sims.csidmce.com)  
-> Full frontend, solo. 26 pages across Student, Admin, and Division Incharge portals. React 19 + Vite + Tailwind, JWT-based auth, 11 service files, Excel exports, 9+ HOD review cycles. Used every day by 500+ students.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" align="center" /> **SIMS**  
+`PRODUCTION` `26 PAGES` `500+ USERS` `3 PORTALS`  
+> Full-scale Student Information Management System. Solo frontend build.  
+> [sims.csidmce.com](https://sims.csidmce.com)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="25" align="center" /> **Singularity** — Space Telemetry Dashboard · [Live](https://space-scope-93kx.vercel.app/) · [Demo](https://www.youtube.com/watch?v=lDWuxWCVywc)  
-> Top 8 / 100+ teams at Code-A-Thon 2.0. Real-time NASA, SpaceX, ISRO telemetry. 3D WebGL globe, live ISS tracking, AI chatbot, gamified XP system. Built over 1.5 months — not a weekend sprint.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="25" align="center" /> **Singularity**  
+`TOP 8 GLOBAL` `THREE.JS` `NASA API` `WEBGL`  
+> NASA telemetry dashboard with 3D WebGL globe and AI-integrated ISS tracking.  
+> [Live Demo](https://space-scope-93kx.vercel.app/) · [Demo Video](https://www.youtube.com/watch?v=lDWuxWCVywc)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Pizza.png" width="25" align="center" /> **Recipe App** · [GitHub](https://github.com/Swarspage/Recipe-App.git)  
-> Drop what's in your fridge, get recipes instantly. AI handles custom recipes, nutrition tables, and taste profiles from your history.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Pizza.png" width="25" align="center" /> **Recipe App**  
+`AI POWERED` `CUSTOM NUTRITION`  
+> Drop what's in your fridge, get recipes instantly. AI handles custom recipes and nutrition profiles.  
+> [GitHub Repo](https://github.com/Swarspage/Recipe-App.git)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" width="25" align="center" /> **Vayu** · [GitHub](https://github.com/Swarspage/CSI-Weather-App)  
-> Real-time weather. Looks like someone actually designed it.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" width="25" align="center" /> **Vayu**  
+`REAL-TIME API` `UI/UX FOCUSED`  
+> Real-time weather application. Looks like someone actually designed it.  
+> [GitHub Repo](https://github.com/Swarspage/CSI-Weather-App)
 
 <br/>
 <div align="center">
@@ -74,7 +85,7 @@
 </div>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center" /> Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" align="center" /> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,vite,threejs,nodejs,express,mongodb,mysql,git,postman,figma,vercel&theme=dark" />
@@ -82,11 +93,9 @@
 
 <br/>
 
-**Frontend** — React · JavaScript · Tailwind · GSAP · Framer Motion · Three.js · Vite
-
-**Backend** — Node.js · Express · MongoDB · MySQL · JWT
-
-**Tools** — Git · Postman · Figma · Vercel · Render
+**Frontend Architecture** — `React 19` `Tailwind CSS` `Three.js` `GSAP` `Vite`  
+**Backend & Database** — `Node.js` `MongoDB` `MySQL` `Express` `JWT`  
+**Dev Workflow** — `Figma` `Git` `Postman` `Vercel` `Render`  
 
 <br/>
 <div align="center">
@@ -94,7 +103,7 @@
 </div>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" align="center" /> Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" align="center" /> Contribution Stats
 
 <div align="center">
 
@@ -109,10 +118,14 @@
 
 ---
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Building%20things%20that%20ship.&fontSize=24&fontColor=ffffff&color=0:1f1f1f,100:000000" width="100%" />
+*"Lost at chess. Won at hackathons."*
 
-*I went from learning React to shipping a production app used by 500+ people — in 7 months.*
+<br/>
+
+`NAVIMUMBAI_INDIA // v2.4.0-STABLE`
 
 </div>

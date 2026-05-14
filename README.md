@@ -1,44 +1,63 @@
 <div align="center">
 
-# Swar Shinde
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Swar%20Shinde&fontSize=58&fontAlign=50&fontAlignY=38&color=0:0f0f0f,100:1f1f1f&desc=Frontend%20Developer%20%E2%80%A2%20Navi%20Mumbai&descAlign=50&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" />
 
-**Frontend Developer · Navi Mumbai**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+products+that+look+too+clean+to+be+real;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Shipping+fast%2C+clean%2C+and+obsessively+polished+UI" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swar-shinde-91131a2b9/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Swardevv/videos)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Swars_page)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swarshinde2006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=black)](https://space-scope-93kx.vercel.app/)
+<br/>
+
+<a href="https://www.linkedin.com/in/swar-shinde-91131a2b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@Swardevv/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://x.com/Swars_page">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:swarshinde2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://space-scope-93kx.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=swarspage&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/swarspage?label=Followers&style=for-the-badge&color=9b5cff" alt="Followers" />
 
 </div>
 
 ---
 
-```js
-const swar = {
-  age          : 19,
-  gpa          : "8.365 / 10",
-  currentlyAt  : "B.Tech CS · DMCE · 2023–Present",
-  internship   : "Built SIMS — 26 pages, 3 portals, 500+ daily users. Solo.",
-  learning     : ["Next.js", "TypeScript", "PostgreSQL"],
-  notOnResume  : "Lost at chess. Won at hackathons."
-};
-```
+## `whoami.js`
+
+<pre>
+<code class="language-js">const swar = {
+  age: 19,
+  gpa: "8.365 / 10",
+  currentlyAt: "B.Tech CS · DMCE · 2023–Present",
+  internship: "Built SIMS — 26 pages, 3 portals, 500+ daily users. Solo.",
+  learning: ["Next.js", "TypeScript", "PostgreSQL"],
+  notOnResume: "Lost at chess. Won at hackathons."
+};</code>
+</pre>
 
 ---
 
 ## What I've shipped
 
-**SIMS** — Student Information Management System · [sims.csidmce.com](https://sims.csidmce.com)
+**SIMS** — Student Information Management System · [sims.csidmce.com](https://sims.csidmce.com)  
 > Full frontend, solo. 26 pages across Student, Admin, and Division Incharge portals. React 19 + Vite + Tailwind, JWT-based auth, 11 service files, Excel exports, 9+ HOD review cycles. Used every day by 500+ students.
 
-**Singularity** — Space Telemetry Dashboard · [Live](https://space-scope-93kx.vercel.app/) · [Demo](https://www.youtube.com/watch?v=lDWuxWCVywc)
+**Singularity** — Space Telemetry Dashboard · [Live](https://space-scope-93kx.vercel.app/) · [Demo](https://www.youtube.com/watch?v=lDWuxWCVywc)  
 > Top 8 / 100+ teams at Code-A-Thon 2.0. Real-time NASA, SpaceX, ISRO telemetry. 3D WebGL globe, live ISS tracking, AI chatbot, gamified XP system. Built over 1.5 months — not a weekend sprint.
 
-**Recipe App** · [GitHub](https://github.com/Swarspage/Recipe-App.git)
+**Recipe App** · [GitHub](https://github.com/Swarspage/Recipe-App.git)  
 > Drop what's in your fridge, get recipes instantly. AI handles custom recipes, nutrition tables, and taste profiles from your history.
 
-**Vayu** · [GitHub](https://github.com/Swarspage/CSI-Weather-App)
+**Vayu** · [GitHub](https://github.com/Swarspage/CSI-Weather-App)  
 > Real-time weather. Looks like someone actually designed it.
 
 ---
@@ -69,6 +88,8 @@ const swar = {
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&text=Building%20things%20that%20ship.&fontSize=24&fontColor=ffffff&color=0:1f1f1f,100:000000" width="100%" />
 
 *I went from learning React to shipping a production app used by 500+ people — in 7 months.*
 

@@ -29,9 +29,13 @@
 
 </div>
 
----
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
 
-## `whoami.js`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /> `whoami.js`
 
 <pre>
 <code class="language-js">const swar = {
@@ -44,25 +48,39 @@
 };</code>
 </pre>
 
----
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
 
-## What I've shipped
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" align="center" /> What I've shipped
 
-**SIMS** — Student Information Management System · [sims.csidmce.com](https://sims.csidmce.com)  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" align="center" /> **SIMS** — Student Information Management System · [sims.csidmce.com](https://sims.csidmce.com)  
 > Full frontend, solo. 26 pages across Student, Admin, and Division Incharge portals. React 19 + Vite + Tailwind, JWT-based auth, 11 service files, Excel exports, 9+ HOD review cycles. Used every day by 500+ students.
 
-**Singularity** — Space Telemetry Dashboard · [Live](https://space-scope-93kx.vercel.app/) · [Demo](https://www.youtube.com/watch?v=lDWuxWCVywc)  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="25" align="center" /> **Singularity** — Space Telemetry Dashboard · [Live](https://space-scope-93kx.vercel.app/) · [Demo](https://www.youtube.com/watch?v=lDWuxWCVywc)  
 > Top 8 / 100+ teams at Code-A-Thon 2.0. Real-time NASA, SpaceX, ISRO telemetry. 3D WebGL globe, live ISS tracking, AI chatbot, gamified XP system. Built over 1.5 months — not a weekend sprint.
 
-**Recipe App** · [GitHub](https://github.com/Swarspage/Recipe-App.git)  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Pizza.png" width="25" align="center" /> **Recipe App** · [GitHub](https://github.com/Swarspage/Recipe-App.git)  
 > Drop what's in your fridge, get recipes instantly. AI handles custom recipes, nutrition tables, and taste profiles from your history.
 
-**Vayu** · [GitHub](https://github.com/Swarspage/CSI-Weather-App)  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" width="25" align="center" /> **Vayu** · [GitHub](https://github.com/Swarspage/CSI-Weather-App)  
 > Real-time weather. Looks like someone actually designed it.
 
----
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
 
-## Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center" /> Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,vite,threejs,nodejs,express,mongodb,mysql,git,postman,figma,vercel&theme=dark" />
+</div>
+
+<br/>
 
 **Frontend** — React · JavaScript · Tailwind · GSAP · Framer Motion · Three.js · Vite
 
@@ -70,9 +88,13 @@
 
 **Tools** — Git · Postman · Figma · Vercel · Render
 
----
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
 
-## Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" align="center" /> Stats
 
 <div align="center">
 
@@ -89,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&text=Building%20things%20that%20ship.&fontSize=24&fontColor=ffffff&color=0:1f1f1f,100:000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Building%20things%20that%20ship.&fontSize=24&fontColor=ffffff&color=0:1f1f1f,100:000000" width="100%" />
 
 *I went from learning React to shipping a production app used by 500+ people — in 7 months.*
 

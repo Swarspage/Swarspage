@@ -18,7 +18,7 @@
 <a href="mailto:swarshinde2006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://space-scope-93kx.vercel.app/">
+<a href="https://swarshinde.dev">
   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 

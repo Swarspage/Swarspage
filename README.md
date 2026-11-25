@@ -1,122 +1,61 @@
-<div align="center">
+<a href="https://swarshinde.dev"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/hero-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Swar. Full-stack developer, builder &amp; open-source contributor shipping in public."></picture></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Swar%20Shinde&fontSize=62&fontAlign=50&fontAlignY=36&color=0:0A0A0B,75:131315,100:FF4D00&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Builder%20%E2%80%A2%20Navi%20Mumbai&descAlign=50&descAlignY=58&descSize=18&fontColor=ECE9E2" width="100%" alt="Swar Shinde Banner" />
+<p align="center">
+<a href="https://www.youtube.com/@Swardevv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-yt-dark.svg"><img src="assets/badge-yt-light.svg" height="44" alt="YouTube @Swardevv"></picture></a>
+<a href="https://x.com/Swars_page"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-x-dark.svg"><img src="assets/badge-x-light.svg" height="44" alt="X @Swars_page"></picture></a>
+<a href="https://www.linkedin.com/in/swar-shinde-91131a2b9/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-li-dark.svg"><img src="assets/badge-li-light.svg" height="44" alt="LinkedIn in/swar-shinde"></picture></a>
+<a href="https://swarshinde.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-site-dark.svg"><img src="assets/badge-site-light.svg" height="44" alt="swarshinde.dev"></picture></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FF4D00&center=true&vCenter=true&width=900&lines=system.out.dev+%2F%2F+Swar+Shinde;Full-Stack+Developer+%26+Technical+Co-Lead+%40+CSI-CATT;Shipping+cinematic+MERN+%26+Three.js+platforms;500%2B+Registered+Students+%E2%80%A2+Top+8+Hackathon+Finalist;Proof+over+promises+%2F%2F+Building+in+public" alt="Typing SVG" />
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 170 contributions in the last year, 4-day current streak, longest streak 5 days, 201 contributions since 2024, 12 public repos, 3 stars earned, 3 NSoC PRs merged."></picture>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="67 contributions in the last 6 months"></picture>
 
-<a href="https://swarshinde.dev"><img src="https://img.shields.io/badge/PORTFOLIO-swarshinde.dev-FF4D00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0B" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/swar-shinde-91131a2b9/"><img src="https://img.shields.io/badge/LINKEDIN-in%2Fswar--shinde-FF4D00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0B" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/@Swardevv"><img src="https://img.shields.io/badge/YOUTUBE-%40Swardevv-FF4D00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0A0B" alt="YouTube" /></a>
-<a href="https://x.com/Swars_page"><img src="https://img.shields.io/badge/X-%40Swars__page-FF4D00?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0B" alt="X" /></a>
-<a href="mailto:shindeswar@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-shindeswar%40hotmail.com-FF4D00?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0A0A0B" alt="Email" /></a>
+<details><summary>Last 12 months: 170 contributions</summary>
 
-<br/><br/>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="170 contributions in the last 12 months"></picture>
 
-<img src="https://komarev.com/ghpvc/?username=swarspage&label=PROFILE+VIEWS&color=FF4D00&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/swarspage?label=FOLLOWERS&style=for-the-badge&color=FF4D00&labelColor=0A0A0B" alt="Followers" />
+</details>
 
-</div>
+<details><summary>2026: 170 contributions</summary>
 
----
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="170 contributions in 2026"></picture>
 
-### ⚡ Telemetry & Overview
+</details>
 
-```json
-{
-  "engineer": "Swar Shinde",
-  "location": "Navi Mumbai, India",
-  "roles": [
-    "Full-Stack Developer",
-    "Creative Builder",
-    "Technical Co-Lead @ CSI-CATT DMCE"
-  ],
-  "education": {
-    "degree": "B.Tech Computer Engineering",
-    "institution": "Datta Meghe College of Engineering",
-    "cgpa": "8.365 / 10",
-    "period": "2023 – Present"
-  },
-  "metrics": {
-    "productionUsers": "500+ Registered Students (SIMS)",
-    "hackathonRank": "Top 8 / 100+ Teams (Singularity)",
-    "stack": "MERN · Three.js · GSAP · WebGL · Tailwind"
-  },
-  "status": "Available for Opportunities // Building in public"
-}
-```
+<details><summary>2025: 30 contributions</summary>
 
----
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2025-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2025-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2025-dark.svg"><img src="assets/graph-2025-light.svg" width="100%" alt="30 contributions in 2025"></picture>
 
-### 🚀 Selected Flagship Deployments
+</details>
 
-#### 🏛️ [SIMS (Student Information Management System)](https://sims.csidmce.com)  
-`PRODUCTION DEPLOYMENT` `500+ REGISTERED USERS` `26 PAGES` `3 ROLES`  
-> Full-scale institutional management platform built during internship under the college HOD. Owned the entire frontend architecture end to end across three authenticated user portals. Live on production, serving 500+ active students.  
-> 🔗 **Live Portal:** [sims.csidmce.com](https://sims.csidmce.com)  
-> 🛠️ **Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `MongoDB` `JWT`
+<details><summary>2024: 1 contribution</summary>
 
-#### 🛰️ [Singularity (Space Mission Control & 3D Telemetry)](https://github.com/Swarspage/Singularity.git)  
-`TOP 8 GLOBAL FINALIST` `THREE.JS 3D GLOBE` `NASA / SPACEX / ISRO APIS`  
-> Full-stack space exploration mission control pulling live telemetry from NASA, SpaceX, and ISRO. Features live ISS orbital tracking, custom 3D WebGL globe, solar aurora heatmaps, and adaptive AI copilot. Placed Top 8 out of 100+ teams at Code-A-Thon 2.0.  
-> 🔗 **Demo Video:** [YouTube Video Breakdown](https://www.youtube.com/watch?v=lDWuxWCVywc) · **Repo:** [github.com/Swarspage/Singularity](https://github.com/Swarspage/Singularity.git)  
-> 🛠️ **Stack:** `React` `Three.js` `Node.js` `MongoDB` `Gemini AI` `Framer Motion`
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2024-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2024-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2024-dark.svg"><img src="assets/graph-2024-light.svg" width="100%" alt="1 contributions in 2024"></picture>
 
-#### ⚡ [Scaffold (AI Architecture & Prompt Engineering Directory)](https://scaffold.swarshinde.dev/)  
-`PRODUCTION` `1,678 PUBLIC APIS` `35 DESIGN SYSTEMS` `EXPORT KITS`  
-> Comprehensive developer platform featuring 35 live design-system templates, 58 workflow blueprints, and a searchable index of 1,678 verified public APIs. Customize variables on-the-fly and export ready-to-run kits in Markdown or JSON.  
-> 🔗 **Live Tool:** [scaffold.swarshinde.dev](https://scaffold.swarshinde.dev/)  
-> 🛠️ **Stack:** `React` `Vite` `Tailwind CSS` `GSAP`
+</details>
 
-#### 🍳 [Recipe AI (Smart Fridge & Culinary Engine)](https://github.com/Swarspage/Recipe-App.git)  
-`AI POWERED` `GROQ API` `CUSTOM NUTRITION` `ZERO FOOD WASTE`  
-> Input whatever ingredients you have in your fridge and get instantly matching culinary recipes. Powered by Groq AI to calculate complete macronutrient breakdowns and personalize recipes to your taste.  
-> 🔗 **Repo:** [github.com/Swarspage/Recipe-App](https://github.com/Swarspage/Recipe-App.git)  
-> 🛠️ **Stack:** `React` `Node.js` `MongoDB` `Groq API` `Tailwind CSS`
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="53 contributions in the last 30 days"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/whoami-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/whoami-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: swar  ·  full-stack developer &amp; open source  ·  Navi Mumbai, India"></picture>
 
-### 🛠️ Technical Arsenal
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-ship-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-ship-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-ship-dark.svg"><img src="assets/label-ship-light.svg" width="100%" alt="What I ship"></picture>
 
-<div align="center">
+<p align="center">
+<a href="https://sims.csidmce.com"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-sims-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-sims-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-sims-dark.svg"><img src="assets/app-sims-light.svg" width="49%" alt="SIMS: College student portal I built end to end during my internship."></picture></a>
+<a href="https://scaffold.swarshinde.dev"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-scaffold-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-scaffold-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-scaffold-dark.svg"><img src="assets/app-scaffold-light.svg" width="49%" alt="Scaffold: Prompt-architecture directory for AI IDE users."></picture></a>
+<a href="https://github.com/Swarspage/Singularity"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-singularity-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-singularity-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-singularity-dark.svg"><img src="assets/app-singularity-light.svg" width="49%" alt="Singularity: Space mission control pulling live NASA, SpaceX &amp; ISRO data."></picture></a>
+<a href="https://hacktober.swarshinde.dev"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-redflag-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-redflag-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-redflag-dark.svg"><img src="assets/app-redflag-light.svg" width="49%" alt="RedFlag Reader: AI contract risk auditor &amp; negotiation helper."></picture></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,threejs,nodejs,express,mongodb,mysql,git,github,postman,vite,figma,cpp,py&theme=dark" alt="Technical Arsenal" />
+<p align="center"><sub>Open Source (NSoC): <a href="https://github.com/KanishJebaMathewM/DSA_Studio/pull/14">DSA Studio PR #14</a> · <a href="https://github.com/KanishJebaMathewM/DSA_Studio/pull/32">PR #32</a> · <a href="https://github.com/breeze-sn/Atria/pull/48">Atria PR #48</a> · more ships: <a href="https://github.com/Swarspage/Recipe-App">Recipe AI</a> · <a href="https://apticore.swarshinde.dev">Aptitude Platform</a> · <a href="https://csi-attendance-web-app.vercel.app/">CSI Attendance</a> · <a href="https://github.com/Swarspage/hacktober-project">RedFlag Repo</a></sub></p>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-videos-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-videos-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-videos-dark.svg"><img src="assets/label-videos-light.svg" width="100%" alt="Latest videos"></picture>
 
-<br/>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=lDWuxWCVywc"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/video-lDWuxWCVywc-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/video-lDWuxWCVywc-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/video-lDWuxWCVywc-dark.svg"><img src="assets/video-lDWuxWCVywc-light.svg" width="32%" alt="&quot;Singularity&quot; - CODE_-A-THON 2.0 Web APP Tutorial"></picture></a>
+<a href="https://www.youtube.com/watch?v=ZVaLEBNFlzc"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/video-ZVaLEBNFlzc-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/video-ZVaLEBNFlzc-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/video-ZVaLEBNFlzc-dark.svg"><img src="assets/video-ZVaLEBNFlzc-light.svg" width="32%" alt="Day 2 - Leetcode | C++ | Beginner"></picture></a>
+<a href="https://www.youtube.com/watch?v=5Y-RAEXeUjU"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/video-5Y-RAEXeUjU-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/video-5Y-RAEXeUjU-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/video-5Y-RAEXeUjU-dark.svg"><img src="assets/video-5Y-RAEXeUjU-light.svg" width="32%" alt="Day 1 - Leetcode | Javascript | Beginner"></picture></a>
+</p>
 
-- **Frontend & WebGL:** `React` `Three.js` `GSAP` `Framer Motion` `Tailwind CSS` `Vite` `HTML5/CSS3`
-- **Backend & Database:** `Node.js` `Express` `MongoDB` `MySQL` `RESTful APIs` `JWT Auth`
-- **Languages:** `JavaScript (ES6+)` `TypeScript` `C++` `Python` `Java` `C`
-- **Workflow & DevOps:** `Git` `GitHub` `Postman` `Vercel` `Figma` `VS Code`
-
----
-
-### 📊 GitHub Activity & Telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=swarspage&show_icons=true&bg_color=0A0A0B&title_color=FF4D00&text_color=ECE9E2&icon_color=FF4D00&border_color=26262A&include_all_commits=true&count_private=false" alt="Swar's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarspage&layout=compact&langs_count=6&bg_color=0A0A0B&title_color=FF4D00&text_color=ECE9E2&border_color=26262A" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=swarspage&background=0A0A0B&border=26262A&stroke=26262A&ring=FF4D00&fire=FF4D00&currStreakLabel=FF4D00&sideLabels=ECE9E2&currStreakNum=ECE9E2&sideNums=ECE9E2&dates=8D8D94" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-*"Proof over promises. Wins, code, and recognition."*
-
-<br/>
-
-`NAVIMUMBAI_INDIA // v4.0.0-RELEASE // swarshinde.dev`
-
-</div>
+<p align="center"><sub>Drawn in Swar's Portfolio V4 design system · numbers and videos redrawn every night by a GitHub Action · <a href="https://swarshinde.dev">swarshinde.dev</a></sub></p>

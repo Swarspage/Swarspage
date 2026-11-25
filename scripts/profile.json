@@ -1,0 +1,128 @@
+{
+  "user": "Swarspage",
+  "name": "Swar",
+  "fullName": "Swar Shinde",
+  "city": "Navi Mumbai, India",
+  "terminalHost": "swar@navi-mumbai",
+  "heroHeadline": "Hi, I'm Swar",
+  "heroSubtitle": "Full-stack developer, builder & open-source contributor shipping in public.",
+  "heroPills": [
+    { "text": "MERN & Three.js", "tone": "blue" },
+    { "text": "Open Source (NSoC)", "tone": "amber" },
+    { "text": "500+ SIMS Users", "tone": "purple" },
+    { "text": "YouTube Devlogs", "tone": "red" }
+  ],
+  "siteDomain": "swarshinde.dev",
+  "links": {
+    "youtube": {
+      "label": "YouTube",
+      "handle": "@Swardevv",
+      "url": "https://www.youtube.com/@Swardevv",
+      "channelId": "UCrWDqnTOtUxtXW9PqBWM15Q"
+    },
+    "x": {
+      "label": "X",
+      "handle": "@Swars_page",
+      "url": "https://x.com/Swars_page"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "handle": "in/swar-shinde",
+      "url": "https://www.linkedin.com/in/swar-shinde-91131a2b9/"
+    },
+    "site": {
+      "label": "swarshinde.dev",
+      "handle": "",
+      "url": "https://swarshinde.dev"
+    }
+  },
+  "whoami": {
+    "roleLine": "swar  ·  full-stack developer & open source  ·  Navi Mumbai, India",
+    "bioLine": "I build MERN & 3D web apps, contribute to open source, and stream on YouTube.",
+    "now": [
+      "Technical Co-Lead @ CSI-CATT DMCE (2026-27)",
+      "NSoC Open Source: 3 PRs merged across DSA Studio & Atria",
+      "Building Campus Connect & SkillTube in public"
+    ]
+  },
+  "nsocMergedPrs": 3,
+  "apps": [
+    {
+      "id": "sims",
+      "name": "SIMS",
+      "badge": "production",
+      "badgeTone": "green",
+      "tone": "blue",
+      "url": "https://sims.csidmce.com",
+      "icon": "sims.jpg",
+      "description": "College student portal I built end to end during my internship.",
+      "tags": ["React", "Node.js", "MongoDB"],
+      "fact": "500+ students · 3 roles · 26 pages"
+    },
+    {
+      "id": "scaffold",
+      "name": "Scaffold",
+      "badge": "live tool",
+      "badgeTone": "green",
+      "tone": "purple",
+      "url": "https://scaffold.swarshinde.dev",
+      "icon": "scaffold.jpg",
+      "description": "Prompt-architecture directory for AI IDE users.",
+      "tags": ["React 19", "Supabase", "Postgres"],
+      "fact": "1,678 APIs · 47 design systems"
+    },
+    {
+      "id": "singularity",
+      "name": "Singularity",
+      "badge": "top 8 / 500+",
+      "badgeTone": "amber",
+      "tone": "teal",
+      "url": "https://github.com/Swarspage/Singularity",
+      "icon": "singularity.jpg",
+      "description": "Space mission control pulling live NASA, SpaceX & ISRO data.",
+      "tags": ["React", "Three.js", "Gemini AI"],
+      "fact": "3D WebGL · Code-A-Thon 2.0 Finalist"
+    },
+    {
+      "id": "redflag",
+      "name": "RedFlag Reader",
+      "badge": "winner",
+      "badgeTone": "amber",
+      "tone": "red",
+      "url": "https://hacktober.swarshinde.dev",
+      "icon": "redflag.jpg",
+      "description": "AI contract risk auditor & negotiation helper.",
+      "tags": ["React", "Express", "Gemini AI"],
+      "fact": "Hacktoberfest Hack Day Mumbai"
+    }
+  ],
+  "ossLinks": [
+    { "name": "DSA Studio PR #14", "url": "https://github.com/KanishJebaMathewM/DSA_Studio/pull/14" },
+    { "name": "PR #32", "url": "https://github.com/KanishJebaMathewM/DSA_Studio/pull/32" },
+    { "name": "Atria PR #48", "url": "https://github.com/breeze-sn/Atria/pull/48" }
+  ],
+  "moreShips": [
+    { "name": "Recipe AI", "url": "https://github.com/Swarspage/Recipe-App" },
+    { "name": "Aptitude Platform", "url": "https://apticore.swarshinde.dev" },
+    { "name": "CSI Attendance", "url": "https://csi-attendance-web-app.vercel.app/" },
+    { "name": "RedFlag Repo", "url": "https://github.com/Swarspage/hacktober-project" }
+  ],
+  "fallbackVideos": [
+    {
+      "id": "lDWuxWCVywc",
+      "title": "\"Singularity\" - CODE-A-THON 2.0 Web App Tutorial",
+      "date": "2026-02-07"
+    },
+    {
+      "id": "ZVaLEBNFlzc",
+      "title": "Day 2 - Leetcode | C++ | Beginner",
+      "date": "2025-11-29"
+    },
+    {
+      "id": "5Y-RAEXeUjU",
+      "title": "Day 1 - Leetcode | Javascript | Beginner",
+      "date": "2025-10-17"
+    }
+  ]
+}
+

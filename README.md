@@ -7,19 +7,19 @@
 <a href="https://swarshinde.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-site-dark.svg"><img src="assets/badge-site-light.svg" height="44" alt="swarshinde.dev"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 170 contributions in the last year, 4-day current streak, longest streak 5 days, 201 contributions since 2024, 12 public repos, 3 stars earned, 3 NSoC PRs merged."></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 171 contributions in the last year, 5-day current streak, longest streak 5 days, 202 contributions since 2024, 12 public repos, 3 stars earned, 3 NSoC PRs merged."></picture>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="67 contributions in the last 6 months"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="68 contributions in the last 6 months"></picture>
 
-<details><summary>Last 12 months: 170 contributions</summary>
+<details><summary>Last 12 months: 171 contributions</summary>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="170 contributions in the last 12 months"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="171 contributions in the last 12 months"></picture>
 
 </details>
 
-<details><summary>2026: 170 contributions</summary>
+<details><summary>2026: 171 contributions</summary>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="170 contributions in 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="171 contributions in 2026"></picture>
 
 </details>
 
@@ -35,7 +35,7 @@
 
 </details>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="53 contributions in the last 30 days"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="54 contributions in the last 30 days"></picture>
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/whoami-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/whoami-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: swar  ·  full-stack developer &amp; open source  ·  Navi Mumbai, India"></picture>
 
